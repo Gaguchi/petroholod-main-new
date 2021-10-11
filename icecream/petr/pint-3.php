@@ -44,6 +44,9 @@
                             <div class="flex-viewport" style="overflow: hidden; position: relative;">
                                 <ul class="slides"
                                     style="width: 1000%; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+<<<<<<< HEAD
+                                    
+=======
                                     <li style="padding-right: 5px; width: 286.3px; float: left; display: block;">
                                         <div class="img-box adv-img adv-img-classic-box">
                                             <a class="img-box" href="./pint-1.php">
@@ -60,6 +63,7 @@
                                             </a>
                                         </div>
                                     </li>
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                                     <li style="padding-right: 5px; width: 286.3px; float: left; display: block;">
                                         <div class="img-box adv-img adv-img-classic-box">
                                             <a class="img-box" href="./pint-3.php">

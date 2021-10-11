@@ -8,6 +8,9 @@
                 </div>
             <div class="container content">
                 <div class="row">
+<<<<<<< HEAD
+                    
+=======
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <a href="./icecream/kiss/kiss-bel.php">
                                 <div class="positions-block">
@@ -44,6 +47,7 @@
                                 </div>
                             </a>
                         </div>
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                     </div>
             </div>
         </div>

@@ -18,6 +18,8 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<<<<<<< HEAD
+=======
                             <a href="./icecream/ni/nat-mal.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/nat-mal.png" alt="«Natur Ice» Замороженный взбитый десерт шербет из малины">
@@ -27,6 +29,7 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                             <a href="./icecream/ni/nat-mango.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/nat-mango.png" alt="«Natur Ice» Замороженный взбитый десерт шербет из манго">
@@ -35,6 +38,8 @@
                                 </div>
                             </a>
                         </div>
+<<<<<<< HEAD
+=======
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <a href="./icecream/kiss/kiss-bel.php">
                                 <div class="positions-block">
@@ -71,6 +76,7 @@
                                 </div>
                             </a>
                         </div>
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                     </div>
             </div>
         </div>

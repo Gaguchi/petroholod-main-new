@@ -69,6 +69,8 @@
                                     </li>
                                     <li style="padding-right: 5px; width: 286.3px; float: left; display: block;">
                                         <div class="img-box adv-img adv-img-classic-box">
+<<<<<<< HEAD
+=======
                                             <a class="img-box" href="./nat-mal.php">
                                                 <img alt="" src="../../images/gallery/nat-mal.jpg"
                                                     draggable="false">
@@ -77,6 +79,7 @@
                                     </li>
                                     <li style="padding-right: 5px; width: 286.3px; float: left; display: block;">
                                         <div class="img-box adv-img adv-img-classic-box">
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                                             <a class="img-box" href="./nat-mango.php">
                                                 <img alt="" src="../../images/gallery/nat-mango.jpg"
                                                     draggable="false">

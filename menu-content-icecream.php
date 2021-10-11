@@ -26,8 +26,13 @@
                     <a href="../../menu-caro.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/menu-caro.jpg');background-size: contain;"></i></a><span
                         class="space"></span><span class="space"></span>
+<<<<<<< HEAD
+                    <a href="../../menu-petr.php"><i class="fa text-xl square onlycover"
+                            style="background-image:url('../../images/gallery/menu-petr.jpg');background-size: contain;"></i></a><span
+=======
                     <a href="../../menu-kiss.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/menu-kiss.jpg');background-size: contain;"></i></a><span
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                         class="space"></span><span class="space"></span>
                     <a href="../../menu-kr.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/menu-kr.jpg');background-size: contain;"></i></a><span
@@ -47,8 +52,13 @@
                     <a href="../../menu-zol.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/menu-zol.jpg');background-size: contain;"></i></a><span
                         class="space"></span><span class="space"></span>
+<<<<<<< HEAD
+                    <i class="fa text-xl square onlycover"
+                            style="background-image:url('');background-size: contain;background-color: #f7f7f700 !important;"></i><span
+=======
                     <a href="../../menu-petr.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/menu-petr.jpg');background-size: contain;"></i></a><span
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                         class="space"></span><span class="space"></span>
                 </div>
             </div>
@@ -232,8 +242,13 @@
                     <a href="../../menu-nuts.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/nuts.jpg');background-size: cover;"></i></a><span
                         class="space"></span><span class="space"></span>
+<<<<<<< HEAD
+                    <i class="fa text-xl square onlycover"
+                            style="background-image:url('');background-size: cover;background-color: #f7f7f700 !important;"></i><span
+=======
                     <a href="../../menu-desserts.php"><i class="fa text-xl square onlycover"
                             style="background-image:url('../../images/gallery/desserts.jpg');background-size: cover;"></i></a><span
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                         class="space"></span><span class="space"></span>
                 </div>
             </div>
@@ -253,11 +268,14 @@
                                             </a>
                                         </div>
                                         <div class="col-xs-6 col-sm-3">
+<<<<<<< HEAD
+=======
                                             <a class="img-box" href="../../menu-kiss.php">
                                                 <img src="../../images/gallery/menu-kiss.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="col-xs-6 col-sm-3">
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                                             <a class="img-box" href="../../menu-kr.php">
                                                 <img src="../../images/gallery/menu-kr.jpg" alt="">
                                             </a>
@@ -292,6 +310,14 @@
                                                 <img src="../../images/gallery/menu-petr.jpg" alt="">
                                             </a>
                                         </div>
+<<<<<<< HEAD
+                                        <div class="col-xs-6 col-sm-3">
+                                            <a class="img-box" href="">
+                                                <img src="" alt="">
+                                            </a>
+                                        </div>
+=======
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                                     </div>
                                 </div>
                             </div>
@@ -390,8 +416,13 @@
                                             </a>
                                         </div>
                                         <div class="col-xs-6 col-sm-3">
+<<<<<<< HEAD
+                                            <a class="img-box" href="">
+                                                <img src="" alt="">
+=======
                                             <a class="img-box" href="../../menu-desserts.php">
                                                 <img src="../../images/gallery/desserts.jpg" alt="">
+>>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                                             </a>
                                         </div>
                                     </div>

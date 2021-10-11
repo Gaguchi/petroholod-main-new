@@ -38,7 +38,7 @@
                         <div class="col-md-6 text-left">
                             <div class="title text-left text-left-sm">
                                 <h2 id="no-underline"><img src="./images/location.svg" class="icons"> Склад:</h2>
-                                <p>ул Якорная д 17, Санкт-Петербург, Россия</p>
+                                <p>195027, г. Санкт-Петербург, ул Якорная д 17</p>
                             </div>
                         </div>
                     </div>
@@ -83,11 +83,7 @@
                 <hr class="space m" />
                 <div class="row">
                     <div class="col-12">
-<<<<<<< HEAD
                     <form action="https://boriskaraia.com/petroholod/scripts/php/contact-form.php" class="form-box"
-=======
-                    <form action="https://petroholod.com/scripts/php/contact-form.php" class="form-box"
->>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                             method="post">
                             <div class="row">
                                 <div class="col-md-6">

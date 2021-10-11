@@ -55,10 +55,10 @@
                                 <div class="flexslider slider visible-dir-nav nav-inner white">
                                     <ul class="slides">
                                         <li>
-                                            <a href="/news/dp.php"><img src="./images/gallery/dp_slide_sm_1.jpg" alt="" /></a>
+                                            <a href="./news/dp.php"><img src="./images/gallery/blog-1.jpg" alt="" /></a>
                                         </li>
                                         <li>
-                                        <a href="/news/dp.php"><img src="./images/gallery/dp_slide_sm_2.jpg" alt="" /></a>
+                                        <a href="./news/dp.php"><img src="./images/gallery/blog-2.jpg" alt="" /></a>
                                         </li>
                                     </ul>
                                 </div>

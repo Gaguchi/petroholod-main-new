@@ -83,7 +83,7 @@
                 <hr class="space m" />
                 <div class="row">
                     <div class="col-12">
-                    <form action="https://boriskaraia.com/petroholod/scripts/php/contact-form.php" class="form-box"
+                    <form action="/scripts/php/contact-form.php" class="form-box"
                             method="post">
                             <div class="row">
                                 <div class="col-md-6">

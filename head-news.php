@@ -56,7 +56,6 @@
 </head>
 
 <body>
-    <div id="preloader"></div>
     <div class="footer-parallax-container" style="box-shadow: 0 0 0px 0px rgb(255 255 255 / 0%); margin-bottom:0px;">
         <header class="fixed-top scroll-change wide-area" data-menu-anima="fade-in" style="height: 91px;">
             <div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">

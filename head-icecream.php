@@ -102,7 +102,6 @@
 </head>
 
 <body>
-    <div id="preloader"></div>
     <div class="footer-parallax-container">
         <header class="fixed-top scroll-change wide-area" data-menu-anima="fade-in" style="height: 91px;">
             <div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">

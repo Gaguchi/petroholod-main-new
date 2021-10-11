@@ -11,25 +11,13 @@
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <a href="./icecream/ni/nat-lar-mango.php">
                                 <div class="positions-block">
-                                                    <img class="img-responsive" src="./images/gallery/nat-lar-mango.png" alt="«Natur Ice» Замороженный взбитый десерт шербет из мангов ванильном пломбире в глазури со вкусом маракуйи">
-                                    <h4>«Natur Ice» Замороженный взбитый десерт шербет из мангов ванильном пломбире в глазури со вкусом маракуйи</h4>
+                                                    <img class="img-responsive" src="./images/gallery/nat-lar-mango.png" alt="«Natur Ice» Замороженный взбитый десерт шербет из манго в ванильном пломбире в глазури со вкусом маракуйи">
+                                    <h4>«Natur Ice» Замороженный взбитый десерт шербет из манго в ванильном пломбире в глазури со вкусом маракуйи</h4>
                                     <p><b>70г</b></p>								
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-<<<<<<< HEAD
-                            <a href="./icecream/ni/nat-bat-bl.php">
-                                <div class="positions-block">
-                                                    <img class="img-responsive" src="./images/gallery/nat-bat-bl.png" alt="«Natur Ice» Замороженный взбитый десерт шербет черносмородиновый в ванильном пломбире в белой глазури">
-                                    <h4>«Natur Ice» Замороженный взбитый десерт шербет черносмородиновый в ванильном пломбире в белой глазури</h4>
-                                    <p><b>70г</b></p>								
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-=======
->>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                             <a href="./icecream/bat/bel.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/bel-noch.png" alt="«Белые ночи» Мороженое сливочное шоколадное в белой глазури">

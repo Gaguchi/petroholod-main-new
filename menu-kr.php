@@ -11,8 +11,8 @@
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                             <a href="./icecream/kr/kr-brik-crem.php">
                                 <div class="positions-block">
-                                                    <img class="img-responsive" src="./images/gallery/kr-brik-crem.png" alt="«Как Раньше» Мороженое пломбир ванильный с шоколадной крошкой">
-                                    <h4>«Как Раньше» Мороженое пломбир ванильный с шоколадной крошкой</h4>
+                                                    <img class="img-responsive" src="./images/gallery/kr-brik-crem.png" alt="«Как Раньше» Мороженое пломбир крем-брюле">
+                                    <h4>«Как Раньше» Мороженое пломбир крем-брюле</h4>
                                     <p><b>220г</b></p>								
                                 </div>
                             </a>

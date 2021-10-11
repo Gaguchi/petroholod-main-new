@@ -11,7 +11,7 @@
                                 <img id="cat-single-img" src="../../images/gallery/kr-brik-crem.png" alt="">
                             </div>
                             <div class="col-md-6">
-                                <h5>Мороженое пломбир ванильный с шоколадной крошкой</h5>
+                                <h5>Мороженое пломбир крем-брюле</h5>
                                 <h6>Жирность</h6>
                                 <ul>
                                     <li>Массовая доля жира — <span>15</span> %</li>

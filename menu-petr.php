@@ -9,8 +9,6 @@
             <div class="container content">
                 <div class="row">
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-<<<<<<< HEAD
-=======
                             <a href="./icecream/petr/pint-1.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/pint-choc.png" alt="Мороженое пломбир с наполнителем «Вишня» и кусочками темного шоколада «Cherry & Chocolate»">
@@ -29,7 +27,6 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
->>>>>>> 64d94414059502d3415748a83e3def3862c43e1a
                             <a href="./icecream/petr/pint-3.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/pint-straw.png" alt="Мороженое пломбир с экстактом базилика, с десертом замороженным шербет с соком клубника «Strawberry ">

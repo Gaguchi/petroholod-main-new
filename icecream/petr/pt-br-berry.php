@@ -8,7 +8,7 @@
                                     <hr />
                                     <p><img id="cat-single-logo" src="../../images/gallery/logo-petr.png" alt=""></p>
                                 </div>
-                                <img id="cat-single-img" src="../../images/gallery/pt-br-berry.jpg" alt="">
+                                <img id="cat-single-img" src="../../images/gallery/pt-br-berry.png" alt="">
                             </div>
                             <div class="col-md-6">
                                 <h5>Мороженое пломбир ванильный с наполнителем из чёрной смородины. Петрохолод</h5>

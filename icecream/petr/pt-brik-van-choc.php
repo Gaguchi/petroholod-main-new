@@ -8,7 +8,7 @@
                                     <hr />
                                     <p><img id="cat-single-logo" src="../../images/gallery/logo-petr.png" alt=""></p>
                                 </div>
-                                <img id="cat-single-img" src="../../images/gallery/pt-brik-van-choc.jpg" alt="">
+                                <img id="cat-single-img" src="../../images/gallery/pt-brik-van-choc.png" alt="">
                             </div>
                             <div class="col-md-6">
                                 <h5>Мороженое пломбир ванильный с шоколадной крошкой</h5>

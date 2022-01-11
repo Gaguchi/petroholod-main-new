@@ -36,10 +36,19 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <a href="./icecream/petr/pt-br-berry.php.php">
+                            <a href="./icecream/petr/pt-br-berry.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/pt-br-berry.png" alt="«Петрохолод» Мороженое пломбир ванильный с наполнителем из чёрной смородины">
                                     <h4>«Петрохолод» Мороженое пломбир ванильный с наполнителем из чёрной смородины</h4>
+                                    <p><b>200г</b></p>								
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                            <a href="./icecream/petr/pt-br-van.php">
+                                <div class="positions-block">
+                                                    <img class="img-responsive" src="./images/gallery/pt-br-van.png" alt="«Петрохолод» Мороженое пломбир ванильный">
+                                    <h4>«Петрохолод» Мороженое пломбир ванильный</h4>
                                     <p><b>200г</b></p>								
                                 </div>
                             </a>
@@ -63,7 +72,7 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <a href="./icecream/petr/pt-br-choc-choc.php">
+                            <a href="./icecream/petr/pt-brik-choc-choc.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/pt-br-choc-choc.png" alt="«Петрохолод» Мороженое пломбир шоколадный с шоколадной крошкой">
                                     <h4>«Петрохолод» Мороженое пломбир шоколадный с шоколадной крошкой</h4>
@@ -72,7 +81,7 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                            <a href="./icecream/petr/pt-br-van-choc.php">
+                            <a href="./icecream/petr/pt-brik-van-choc.php">
                                 <div class="positions-block">
                                                     <img class="img-responsive" src="./images/gallery/pt-br-van-choc.png" alt="«Петрохолод» Мороженое пломбир ванильный с шоколадной крошкой">
                                     <h4>«Петрохолод» Мороженое пломбир ванильный с шоколадной крошкой</h4>
